@@ -1,9 +1,9 @@
 # Ritchi
 ![image](https://github.com/R2FREE/Ritchi/blob/master/img/Ritchi_logo.png)  
 
-Ritchi is a crypto trading bot based on Telegram bot, WebSocket API and REST API on BitMEX exchange.  
+Ritchi is a crypto trading bot based on Telegram bot, WebSocket API and REST API for BitMEX exchange.  
   
-You can control your algorithmic trading script on serve to run or stop trading, sell(short) or buy(long) through Telegram APP.  
+You can control your algorithmic trading script on serve to run or stop trading, sell(short) or buy(long) with Telegram.  
   
 If you are interested in Cryptocurrency Quantitative Trading, especially trading BTC on BitMEX and your location is at any “Restricted Jurisdiction” under BitMEX's [Terms of Service](https://www.bitmex.com/app/terms). I think this project will help you or inspire you at least.
 
@@ -14,7 +14,7 @@ If you are interested in Cryptocurrency Quantitative Trading, especially trading
 - Performance status report: Provide a performance status of your current trades.
 
 ## Getting Started
-Ritchi requires the Python Packages as below:
+Ritchi requires the Python Packages (or higher version) as below :
 - numpy==1.16.4
 - pandas==0.24.2
 - aiogram==2.3
