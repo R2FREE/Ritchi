@@ -40,6 +40,7 @@ self.wst = threading.Thread(target=lambda :self.ws.run_forever(
 the value of http_proxy_port could be different depending on your setting (it should be 7890 for clash on Windows).
 
 ### Other countries
+Remain to be done.
 
 ## Rest parts will be updated after Octorber. 
-### For now, i'm preparing for getting a job related to digital IC design. I will keep updating this project when signed employment aggrement.
+### For now, I'm preparing for getting a job related to digital IC design. I will keep updating this project after getting a ideal job.
