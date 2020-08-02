@@ -34,8 +34,7 @@ self.wst = threading.Thread(target=lambda: self.ws.run_forever())
 ```
 with
 ```Python
-self.wst = threading.Thread(target=lambda :self.ws.run_forever(
-    http_proxy_host="127.0.0.1", http_proxy_port=7890))
+self.wst = threading.Thread(target=lambda :self.ws.run_forever(http_proxy_host="127.0.0.1", http_proxy_port=7890))
 ```
 the value of http_proxy_port could be different depending on your setting (it should be 7890 for clash on Windows).
 
