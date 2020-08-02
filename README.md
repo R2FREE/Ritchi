@@ -1,5 +1,5 @@
 # Ritchi
-![image](https://github.com/R2FREE/Ritchi/blob/master/img/Ritchi_logo.png)  
+<img src="https://github.com/R2FREE/Ritchi/blob/master/img/logo.png" width="200">
 
 Ritchi is a crypto trading bot based on Telegram bot, WebSocket API and REST API for BitMEX exchange.  
 
