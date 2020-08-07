@@ -42,4 +42,4 @@ the value of http_proxy_port could be different depending on your setting (it sh
 Remain to be done.
 
 ## Rest parts will be updated after Octorber. 
-### For now, I'm preparing for getting a job related to digital IC design. I will keep updating this project after getting a ideal job.
+### Now, I'm preparing for getting a job related to digital IC design. I will keep updating this project after getting a ideal job.
