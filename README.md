@@ -3,7 +3,7 @@
 
 Ritchi is a crypto trading bot based on Telegram bot, WebSocket API and REST API for BitMEX exchange.  
 
-You can control your algorithmic trading script on serve to run or stop trading, sell(short) or buy(long) with Telegram.  
+You can control your algorithmic trading script on serve to run or stop trading, sell (short) or buy (long) with Telegram.  
 
 If you are interested in Cryptocurrency Quantitative Trading, especially trading BTC on BitMEX and your location is at any “Restricted Jurisdiction” under BitMEX's [Terms of Service](https://www.bitmex.com/app/terms). I think this project will help you or inspire you at least.
 
