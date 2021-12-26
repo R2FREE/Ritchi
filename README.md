@@ -41,8 +41,5 @@ the value of http_proxy_port could be different depending on your setting (it sh
 ### Other countries
 Remain to be done.
 
-## Rest parts will be updated after Octorber. 
-### Now, I'm preparing for getting a job related to digital IC design. I will keep updating this project after getting a ideal job.
-
 ## The screenshot when running
 <img src="https://i.loli.net/2020/08/11/nmwyTkvjARBIiez.jpg" width="400"> <img src="https://i.loli.net/2020/08/11/Bb6VkWZQjJOseMy.jpg" width="400">
