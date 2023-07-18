@@ -41,5 +41,5 @@ the value of http_proxy_port could be different depending on your setting (it sh
 ### Other countries
 Remain to be done.
 
-## The screenshot when running
+## The screenshot while running
 <img src="https://i.loli.net/2020/08/11/nmwyTkvjARBIiez.jpg" width="400"> <img src="https://i.loli.net/2020/08/11/Bb6VkWZQjJOseMy.jpg" width="400">
